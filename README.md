@@ -43,4 +43,4 @@ The journey doesn't stop here! I'll keep adding more projects to this repository
 ### How to Run These Projects 🛠️
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/tanmay5268/Mini_py_projects
