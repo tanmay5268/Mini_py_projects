@@ -43,6 +43,17 @@ This is my personal space where I challenge myself to stay consistent and build 
   - Saves the recording in `.wav` format
   - Easy-to-use and lightweight
 
+---
+
+### 5. **Emoji Extractor 🧐**
+- **Description**: A tool that reads text from a file, identifies emojis in the text, and extracts their meanings along with an index for each emoji.
+- **Tech Used**: Python, Demoji
+- **Key Features**:
+  - Reads text from a user-specified `.txt` file.
+  - Extracts all emojis and their meanings using the `demoji` library.
+  - Displays the emojis, their meanings, and an index for easy reference.
+  - Handles file not found errors gracefully.
+
 ## What's Next? 🔮
 The journey doesn't stop here! I'll keep adding more projects to this repository as I continue my coding challenge. Stay tuned for more fun and creative ideas! 💡
 
