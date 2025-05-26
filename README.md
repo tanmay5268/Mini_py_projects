@@ -35,6 +35,14 @@ This is my personal space where I challenge myself to stay consistent and build 
 
 ---
 
+### 4. **Audio Recorder 🎙️**
+- **Description**: A simple audio recording tool that captures audio for a specified duration and saves it as a `.wav` file.
+- **Tech Used**: Python, SoundDevice, SciPy, Wavio
+- **Key Features**:
+  - Records audio at a sampling frequency of 44.1 kHz
+  - Saves the recording in `.wav` format
+  - Easy-to-use and lightweight
+
 ## What's Next? 🔮
 The journey doesn't stop here! I'll keep adding more projects to this repository as I continue my coding challenge. Stay tuned for more fun and creative ideas! 💡
 
