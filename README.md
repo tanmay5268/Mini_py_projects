@@ -54,6 +54,16 @@ This is my personal space where I challenge myself to stay consistent and build 
   - Displays the emojis, their meanings, and an index for easy reference.
   - Handles file not found errors gracefully.
 
+---
+
+### 6. **Screenshot Tool 📸**
+- **Description**: A simple tool to capture a specific portion of your screen and save it as an image file.
+- **Module Used**: pillow(PIL), PyScreenshot
+- **Key Features**:
+  - Captures a defined area of the screen using bounding box coordinates.
+  - Displays the captured screenshot for preview.
+  - Saves the screenshot as a `.png` file.
+
 ## What's Next? 🔮
 The journey doesn't stop here! I'll keep adding more projects to this repository as I continue my coding challenge. Stay tuned for more fun and creative ideas! 💡
 
